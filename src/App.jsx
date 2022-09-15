@@ -81,7 +81,7 @@ function App() {
         />} />
 
 
-        <Route path="result" element={
+        <Route path="/result" element={
         <Result 
         useMainWord={mainWord}
         usePhonetic={phonetic}
